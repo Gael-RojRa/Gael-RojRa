@@ -44,8 +44,8 @@ I am a university student of Business Informatics at the University of Costa Ric
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Gael-R&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gael-R)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Gael-R&theme=material-palenight)](https://github.com/Gael-R)
+[![](https://github-readme-stats.vercel.app/api?username=Gael-RojRa&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Gael-RojRa)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Gael-RojRa&theme=material-palenight)](https://github.com/Gael-RojRa)
 </div>
 <!--
 **Gael-R/Gael-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
