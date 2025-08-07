@@ -71,7 +71,7 @@ I'm a **Junior Developer** from Costa Rica 🇨🇷, currently studying **Busine
 
 - 📧 Email: gerardog.rojasramos@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/gael-r](https://www.linkedin.com/in/gael-r/)  
-- 🌐 Portfolio (coming soon)
+- 🌐 Portfolio [portfoliogaelrojra.netlify.app](https://portfoliogaelrojra.netlify.app/)
 ---
 
 > **“Code is not just about syntax. It’s about solving problems and delivering value — and that’s what drives me every day.”**
